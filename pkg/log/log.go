@@ -5,7 +5,7 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/blog/pkg/metrics"
+	"github.com/shiyongsway/blog/pkg/metrics"
 
 	"github.com/sirupsen/logrus"
 )

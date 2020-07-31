@@ -1,0 +1,15 @@
+logs
+src/version.js
+src/node_modules
+src/config-*
+src/build
+*.heapsnapshot
+release
+bin
+.idea/*
+.vscode
+**test_**
+rethinkdb_data/
+*.log
+*.cpuprofile
+pkg/.idea/
